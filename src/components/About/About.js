@@ -1,5 +1,5 @@
 import React from 'react';
-import { Section, SectionText, SectionTitle, SectionDivider } from '../../styles/GlobalComponents';
+import { Section, SectionText, SectionTitle, SectionDivider, SectionSubText } from '../../styles/GlobalComponents';
 
 const About = (props) => {
   return (
@@ -7,11 +7,17 @@ const About = (props) => {
       <SectionDivider />
       <br/>
       <SectionTitle>
-        About Me
+        About me
       </SectionTitle>
-      <SectionText>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tristique ornare dictum. Nulla elit erat, cursus eu ornare eget, fermentum sed dolor. Cras imperdiet metus vel mollis elementum. Fusce laoreet ante a pellentesque hendrerit. Nulla et orci vel sapien finibus tempor ut quis erat. Duis accumsan libero tellus, hendrerit porta leo mollis at.
-      </SectionText>
+      <SectionSubText>
+        I am a Full Stack Developer and an advanced student in a five year course of study in Business Administration and Management.
+        <br/>
+        <br/>
+        I am looking for my first job as a developer. I have experience working with NodeJS, React, Redux and MongoDB, among other technologies in this area. I have an outstanding capacity to combine my technical and soft skills with my knowledge, all of which I acquired at university. I have acquired a personal capacity for action on uncertain scenarios, for adaptation to new situations and to team work.
+        <br/>
+        <br/>
+        I am currently looking forward to joining a technological development company, so I can put my professionalism and qualifications to work, while also having the possibility to grow and enhance my skills.
+      </SectionSubText>
     </Section>
   )
 }

@@ -6,7 +6,7 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Hi, I'm Santiago
+        Hi, i'm Santiago
       </SectionTitle>
       <SectionText>
         Welcome to my portfolio! I'm a Fullstack Developer, passionate about Back-end development and learning new technologies.
