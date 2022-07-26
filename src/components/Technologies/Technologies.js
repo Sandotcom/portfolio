@@ -13,7 +13,7 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <ListItem>
-        <DiReact size='2.8rem' />
+        <DiReact size='3rem' />
         <br/>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
