@@ -9,7 +9,7 @@ const Hero = (props) => (
         Hi, i'm Santiago
       </SectionTitle>
       <SectionText>
-        Welcome to my portfolio! I'm a Fullstack Developer, passionate about Back-end development and learning new technologies.
+        Welcome to my portfolio! I'm a Fullstack Developer, passionate about Back-end development and learning about new technologies.
       </SectionText>
       <Button href='/assets/Santiago_Trabucco_CV.pdf' target="_blank" download>
         Resume
