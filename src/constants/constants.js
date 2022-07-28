@@ -14,6 +14,7 @@ export const projects = [
     image: '/images/dogs.png',
     tags: ['React', 'Redux', 'Express', 'Node.js'],
     source: 'https://github.com/Sandotcom/PI-Dogs',
+    visit: 'https://pi-dogs-sandotcom.vercel.app/home',
     id: 1,
   },
   {
