@@ -18,8 +18,8 @@ const Home = () => {
         <Hero />
         <BgAnimation />
       </Section>
-      <Projects />
       <Technologies />
+      <Projects />
       <About />
     </Layout>
     </>
