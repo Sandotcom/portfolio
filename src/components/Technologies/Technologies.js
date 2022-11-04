@@ -23,9 +23,10 @@ const Technologies = ({ inSpanish }) => {
             <ListParagraph>
               Experiencia con <br />
               React.js <br />
+              Next.js <br />
+              React Query <br />
               Redux <br />
-              CSS <br />
-              Material UI
+              Tailwind CSS
             </ListParagraph>
           </ListContainer>
         </ListItem>
