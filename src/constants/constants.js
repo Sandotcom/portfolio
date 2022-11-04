@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/rauber.png',
     tags: ['React', 'Redux', 'Next.js', 'Tailwind CSS'],
     source: 'https://github.com/Sandotcom/rauber',
-    visit: 'https://rauber.vercel.app/',
+    visit: 'https://raubercerveza.com.ar/',
     id: 0,
   },
   {
@@ -68,7 +68,7 @@ export const proyectos = [
     image: '/images/rauber.png',
     tags: ['React', 'Redux', 'Next.js', 'Tailwind CSS'],
     source: 'https://github.com/Sandotcom/rauber',
-    visit: 'https://rauber.vercel.app/',
+    visit: 'https://raubercerveza.com.ar/',
     id: 0,
   },
   {
